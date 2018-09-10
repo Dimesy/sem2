@@ -4,7 +4,7 @@ import java.lang.*;
 import java.util.Scanner;
 import java.util.Random;
 
-privat class ChapterOne {
+class ChapterOne {
     public static void main(String[] args) {
 
 
